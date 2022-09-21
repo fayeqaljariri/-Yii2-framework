@@ -17,3 +17,6 @@
 <img src="https://user-images.githubusercontent.com/93884856/191502748-7fac5b0d-5786-4f74-ae77-b6ea5ca258a7.png">
 
 ####  if you choice true city
+<img src="https://user-images.githubusercontent.com/93884856/191504116-3f9ab3e9-c63d-4777-afe6-be91262dd099.png">
+
+####  if you have any error
